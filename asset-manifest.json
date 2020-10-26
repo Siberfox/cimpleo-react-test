@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cimpleo-react-test/static/css/main.07d95123.chunk.css",
+    "main.js": "/cimpleo-react-test/static/js/main.eca96a05.chunk.js",
+    "main.js.map": "/cimpleo-react-test/static/js/main.eca96a05.chunk.js.map",
+    "runtime-main.js": "/cimpleo-react-test/static/js/runtime-main.c0497bdc.js",
+    "runtime-main.js.map": "/cimpleo-react-test/static/js/runtime-main.c0497bdc.js.map",
+    "static/css/2.764ccc25.chunk.css": "/cimpleo-react-test/static/css/2.764ccc25.chunk.css",
+    "static/js/2.ae0231fa.chunk.js": "/cimpleo-react-test/static/js/2.ae0231fa.chunk.js",
+    "static/js/2.ae0231fa.chunk.js.map": "/cimpleo-react-test/static/js/2.ae0231fa.chunk.js.map",
+    "index.html": "/cimpleo-react-test/index.html",
+    "precache-manifest.ecd30fd205cdc79d18cddd501165c01f.js": "/cimpleo-react-test/precache-manifest.ecd30fd205cdc79d18cddd501165c01f.js",
+    "service-worker.js": "/cimpleo-react-test/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/cimpleo-react-test/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.07d95123.chunk.css.map": "/cimpleo-react-test/static/css/main.07d95123.chunk.css.map",
+    "static/js/2.ae0231fa.chunk.js.LICENSE.txt": "/cimpleo-react-test/static/js/2.ae0231fa.chunk.js.LICENSE.txt",
+    "static/media/peoples.svg": "/cimpleo-react-test/static/media/peoples.d7abc70c.svg",
+    "static/media/table.svg": "/cimpleo-react-test/static/media/table.c4b2bf3c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0497bdc.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.ae0231fa.chunk.js",
+    "static/css/main.07d95123.chunk.css",
+    "static/js/main.eca96a05.chunk.js"
+  ]
+}
