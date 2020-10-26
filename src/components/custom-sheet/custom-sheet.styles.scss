@@ -1,0 +1,26 @@
+.sheet {
+  width: 90% !important;
+  height: 90% !important;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+}
+.second-icon {
+  margin-left: 10px;
+  &:hover {
+    color: crimson;
+    cursor: pointer;
+  }
+}
+
+.first-icon {
+  &:hover {
+    cursor: pointer;
+    color: darkviolet;
+  }
+}
+
+.edit-input {
+  border: none;
+  border-bottom: 1px solid #000;
+}

@@ -1,0 +1,73 @@
+.form {
+  &__wrapper {
+    width: 40vw;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: auto;
+  }
+
+  &__label {
+    width: 100%;
+    position: relative;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+
+    & span {
+      position: absolute;
+      top: -15px;
+      left: 0px;
+    }
+    & input {
+      width: 100%;
+      height: 60%;
+      border: none;
+      border-bottom: 1px solid #000;
+      &:focus {
+        outline: none;
+      }
+    }
+  }
+
+  &__buttons {
+    width: 60%;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    & button {
+      border: 1px solid blueviolet;
+      background-color: transparent;
+      border-radius: 3px;
+      flex: 1;
+      height: 100%;
+      color: darken(blueviolet, 20%);
+
+      &:hover {
+        color: lighten(blueviolet, 20%);
+      }
+    }
+  }
+}
+
+.sign-in {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 10px;
+}
+.sign-up {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 10px;
+}
